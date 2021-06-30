@@ -1,2 +1,3 @@
 # HTML5-CSS3-1-Alura
-Arquivos criados durante o módulo 1 do curso da Alura de HTML5 e CSS3.
+
+A proposta do curso foi de criar uma página de uma barbearia. Nesse módulo foram ensinados os conceitos básicos de HTML e CSS durante a criação da página inicial.
